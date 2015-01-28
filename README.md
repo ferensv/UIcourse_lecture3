@@ -17,23 +17,24 @@
 <h1></h1>
 <fieldset>
 <label>
-  <input checked="checked" type="radio" name="abroad"/>
-<p>
-    <input checked="checked" type="radio" name="abroad" />
-<p>
-  <input checked="checked" type="radio" name="abroad" />
+  <input checked="checked" type="radio" name="abroad">1</input>
+<p></p>
+    <input checked="checked" type="radio" name="abroad">2</input>
+<p></p>
+  <input checked="checked" type="radio" name="abroad">3</input>
 </label>
 </fieldset>
 <h1></h1>
 <fieldset>
- <input type="checkbox" name="box1"/>
-<p>
- <input type="checkbox" name="box1"/>
-<p>
- <input type="checkbox" name="box1"/>
+ <input type="checkbox" name="box1">1</input>
+<p></p>
+ <input type="checkbox" name="box1">2</input>
+<p></p>
+ <input type="checkbox" name="box1">3</input>
 </fieldset>
-<p>
+<p></p>
 <button type="reset">Reset</button>
+
 </form>
 </body>
 </html>
